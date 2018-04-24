@@ -1677,9 +1677,9 @@ $.magnificPopup.registerModule('gallery', {
 		navigateByImgClick: true,
 		arrows: true,
 
-		tPrev: 'Previous (Left arrow key)',
-		tNext: 'Next (Right arrow key)',
-		tCounter: '%curr% of %total%'
+		tPrev: 'Anterior (Con la flecha Izquierda)',
+		tNext: 'Siguiente (Con la fecha Derecha)',
+		tCounter: '%curr% de %total%'
 	},
 
 	proto: {
