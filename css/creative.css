@@ -325,3 +325,8 @@ header.masthead p {
   margin-top: 10px;
 
 }
+
+.displayNice{
+  display: flex;
+  
+}
