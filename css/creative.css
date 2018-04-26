@@ -52,6 +52,7 @@ h6 {
 
 section {
   padding: 8rem 0;
+  padding-top: 65px;
 }
 
 .section-heading {
@@ -329,4 +330,12 @@ header.masthead p {
 .displayNice{
   display: flex;
   
+}
+
+.textcolor{
+  color: #2E553A
+}
+
+.centrado{
+  display: -moz-stack;
 }
